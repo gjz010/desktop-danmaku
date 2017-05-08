@@ -1,0 +1,11 @@
+.vs
+Debug
+Release
+ipch
+x64
+desktop_danmaku/Debug
+desktop_danmaku/Release
+desktop_danmaku/x64
+backend/node_modules
+backend/.cookie.json
+backend/.secret.json
