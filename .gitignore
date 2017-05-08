@@ -9,3 +9,5 @@ desktop_danmaku/x64
 backend/node_modules
 backend/.cookie.json
 backend/.secret.json
+desktop_danmaku.VC.db
+desktop_danmaku.VC.VC.opendb

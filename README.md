@@ -1,11 +1,13 @@
 DesktopDanmaku
 ==================
+
 Intro
 ------------------
 DesktopDanmaku is a program that allows you to display danmaku on top of other windows.
 The program has two parts - frontend and backend. The frontend is implemented in C++ and using only Windows API 
 so there is no extra dependency. The backend is implemented in Node.js and can fetch messages 
 from WeChat.
+
 Usage
 ------------------
 This program is a terribly implemented one - so you have to modify the code on your own 
